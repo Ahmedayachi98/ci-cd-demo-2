@@ -9,4 +9,5 @@ public class Hotel
     public string? userId { get; set; }
     public string? Id { get; set; }
     public string? FileName { get; set; }
+    public string? AAAAA { get; set; }
 }
